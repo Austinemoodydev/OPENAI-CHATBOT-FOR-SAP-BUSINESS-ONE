@@ -1,6 +1,5 @@
-Here’s a **more natural, human-written version** of your README — cleaner, smoother, and sounding like a real developer explaining their project (not robotic or AI-ish):
 
- 🌈 Crown Paints AI Chatbot
+ 🌈  AI Chatbot
 
 ![Node.js](https://img.shields.io/badge/Node.js-v20-green)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-blue)
